@@ -11,4 +11,4 @@ Machine Learning Models Used:
 Logistic Regression
 Random Forest
 XGBoost
-See the presentation slides[Credit-Card-Default-Prediction.pptx] for a summary of this analysis.
+See the (presentation slides)[https://github.com/AnshRockstar/Credit-Card-Default-Analysis/blob/main/Credit-Card-Default-Prediction.pptx] for a summary of this analysis.
