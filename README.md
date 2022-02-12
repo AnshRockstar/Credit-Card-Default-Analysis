@@ -28,12 +28,12 @@ In these 3 models, Logistic Regression model has the highest recall but the lowe
 ![download](https://user-images.githubusercontent.com/86865912/153705551-fa210ef2-c18f-4631-8e4f-04a5ebe6269b.png)
 
 # Limitations
-Best model Random Forest can only detect 51% of default.\
-Model can only be served as an aid in decision making instead of replacing human decision.\
-Used only 30,000 records and not from US consumers.
+1.Best model Random Forest can only detect 51% of default.\
+2.Model can only be served as an aid in decision making instead of replacing human decision.\
+3.Used only 30,000 records and not from US consumers.
 
 
 # Future Work
-Models are not exhaustive. Other models could perform better.\
-Get more computational resources to tune XGBoost parameters.\
-Acquire US customer data and more useful features.I.e.customer income.
+1.Models are not exhaustive. Other models could perform better.\
+2.Get more computational resources to tune XGBoost parameters.\
+3.Acquire US customer data and more useful features.I.e.customer income.
