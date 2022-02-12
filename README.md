@@ -24,3 +24,6 @@ See the [presentation slides](https://github.com/AnshRockstar/Credit-Card-Defaul
 
 # Model Comparison
 In these 3 models, Logistic Regression model has the highest recall but the lowest precision, if the firm expects high recall, then this model is the best candidate. If the balance of recall and precision is the most important metric, then Random Forest is the ideal model. Since Random Forest has slightly lower recall but much higher precision than Logistic Regression, we recommend the Random Forest model.
+
+![download](https://user-images.githubusercontent.com/86865912/153705551-fa210ef2-c18f-4631-8e4f-04a5ebe6269b.png)
+
